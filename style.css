@@ -1,0 +1,29 @@
+#submitBtn{
+ background: #d1512d;
+color: white;
+border-color:#d1512d;
+}
+#submitBtn:hover{
+    background-color: #bb4120;
+    color: #fff;
+    border-color: #a03315;
+}
+.back-ground{
+    background-color: #F7ECDE;
+}
+ h1{
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    color: #352e28;
+    isolation: isolate;
+
+font-weight: 500;
+}
+h2 {
+    font-family: "Righteous", sans-serif;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
